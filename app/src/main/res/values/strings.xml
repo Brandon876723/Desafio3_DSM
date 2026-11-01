@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Recursos_Aplicacion</string>
+    <string name="welcome_message">¡Bienvenido a AprendeApp!</string>
+    <string name="btn_login">Iniciar Sesión</string>
+    <string name="btn_register">Registrarse</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="title_student_view">Panel de Estudiante</string>
+    <string name="title_teacher_view">Panel de Docente - CRUD</string>
 </resources>
