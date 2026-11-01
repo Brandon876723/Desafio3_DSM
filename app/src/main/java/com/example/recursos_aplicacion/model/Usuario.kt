@@ -1,4 +1,6 @@
 package com.example.recursos_aplicacion.model
 
-class Usuario {
-}
+data class Usuario(
+    val email: String,
+    val rol: String // "Estudiante" o "Docente"
+)
